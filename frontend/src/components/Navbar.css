@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.naviA {
+  background-color: #26355d;
+  height: 60px;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+  color: white;
+  font-style: unset;
+}
+.naviIn {
+  width: 500px;
+  border-radius: 20px;
+  height: 40px;
+}
+.naviIn::placeholder {
+  padding: 20px;
+}
+.pk {
+  color: orange;
+  font-size: 40px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.tk {
+  color: lightblue;
+  font-size: 40px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
